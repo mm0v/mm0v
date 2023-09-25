@@ -2,7 +2,6 @@
 <img align="center" src="https://miro.medium.com/max/828/1*yw0TnheAGN-LPneDaTlaxw.gif" width="930" height="470">
 
 <h1 align="center">Hi 👋, I'm Telman</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mm0v&label=Profile%20views&color=0e75b6&style=flat" alt="mm0v" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
